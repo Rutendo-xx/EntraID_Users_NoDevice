@@ -55,7 +55,7 @@ param(
 
     # Where to save results
     [Parameter(Mandatory = $false)]
-    [string]$OutputCsvPath = "/Users/duro.ojo/Downloads/Win10_Entra_NoDev.csv"
+    [string]$OutputCsvPath = "/Users/rutendo.mazvi/Downloads/Win10_Entra_NoDev.csv"
 
     # Optional: You can add a switch here later if you want Out-GridView on Windows
     # [switch]$ShowGrid
